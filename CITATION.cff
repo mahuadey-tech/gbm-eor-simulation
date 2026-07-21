@@ -6,8 +6,8 @@ date-released: 2026-07-21
 license: MIT
 authors:
   - family-names: "REPLACE"
-    given-names: "AUTHOR"
-repository-code: "https://github.com/REPLACE_ME/gbm-eor-simulation"
+    given-names: "Mahua dey"
+repository-code: "https://github.com/mahuadey-tech/gbm-eor-simulation"
 references:
   - type: article
     title: "REPLACE WITH MANUSCRIPT TITLE"
