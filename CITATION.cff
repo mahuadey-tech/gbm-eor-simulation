@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper."
+title: "eor-sim: a teaching simulation of the extent-of-resection double-duty problem"
+version: 1.0.0
+date-released: 2026-07-21
+license: MIT
+authors:
+  - family-names: "REPLACE"
+    given-names: "AUTHOR"
+repository-code: "https://github.com/REPLACE_ME/gbm-eor-simulation"
+references:
+  - type: article
+    title: "REPLACE WITH MANUSCRIPT TITLE"
+    authors:
+      - family-names: "REPLACE"
+        given-names: "AUTHOR"
+    journal: "Journal of Neuro-Oncology"
+    year: 2026

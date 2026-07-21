@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
+.pytest_cache/
+*.png
+!docs/*.png
+examples/sample_cohort.csv
+.venv/
+env/
